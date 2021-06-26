@@ -1,4 +1,4 @@
-package com.learn.zk;
+package com.learn.zkclient.core;
 
 import java.io.IOException;
 import java.util.concurrent.CountDownLatch;

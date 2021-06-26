@@ -1,4 +1,4 @@
-package com.learn.zk.utils;
+package com.learn.zkclient.utils;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

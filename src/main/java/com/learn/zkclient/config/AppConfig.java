@@ -9,9 +9,9 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.learn.zk.ZooKeeperConnection;
-import com.learn.zk.ZooKeeperDAO;
-import com.learn.zk.ZooKeeperDAOImpl;
+import com.learn.zkclient.core.ZooKeeperConnection;
+import com.learn.zkclient.core.ZooKeeperDAO;
+import com.learn.zkclient.core.ZooKeeperDAOImpl;
 
 @Configuration
 public class AppConfig implements DisposableBean{
